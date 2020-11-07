@@ -1,5 +1,9 @@
 /node_modules
 
+.cache
+.git
+node_modules
+
 
 # Keys
 access_key.json
@@ -8,3 +12,5 @@ access_key.json
 dist
 dist/*
 build/*
+/.cache
+/.git
