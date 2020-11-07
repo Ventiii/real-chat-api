@@ -3,20 +3,8 @@
 
 # Keys
 access_key.json
-firebase.json
-.firebaserc
-app.yaml
-app.*
 .env
-
-.env.*
-
-/config
-config/*
-
-
 .cache
-/dist
 dist
-build
-/build
+dist/*
+build/*
